@@ -7,6 +7,10 @@ body{
   font-family: sans-serif;
   text-align: center;
 }
+.display .displayimage{
+  width: 250px;
+  height: 250px;
+}
 .header span{
   font-size: larger;
   font-weight: bolder;
