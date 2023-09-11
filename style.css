@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: sans-serif;
+  text-align: center;
+}
+.header span{
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.profile {
+  overflow: hidden;
+  border-radius: 1rem;
+  font-weight: bold;
+}
+
+.biodata div {
+  padding-top: 10px;
+  font-weight: 500;
+}
+span {
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+  display: block;
+  padding-top: 5px;
+}
